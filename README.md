@@ -1,2 +1,2 @@
 # PMExcelProjects
-I have done some projects using Advanced Excel. (Interactive Dashboards)
+Sales of a store of a year and analyze data and drawn insights form the dataset.
